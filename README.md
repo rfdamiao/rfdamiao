@@ -24,6 +24,6 @@
 
 ###
 
-![Snake animation](https://github.com/rfdamiao/rfdamiao/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rfdamiao/rfdamiao/output/github-contribution-grid-snake.svg)
 
 ###
