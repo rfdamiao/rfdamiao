@@ -55,14 +55,8 @@
 ###
 
 <h3 align="left">🔥   My Stats :
-OBR Artistica 25: Regional RJ - 2°
-OBR Artistica 25: Estadual RJ - 6°
+OBR Artistica 25: Regional RJ - 2°,
+OBR Artistica 25: Estadual RJ - 6°,
 First Tech Challenge 26: Regional - 7° </h3>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
