@@ -40,8 +40,8 @@ I'm Rafael from Petrópolis, Rio de Janeiro<br><br>
 ###
 
 <h3 align="left">🔥   My Stats :
-OBR Artistica 25: Regional RJ - 2°,
-OBR Artistica 25: Estadual RJ - 6°,
-First Tech Challenge 26: Regional - 7° </h3>
+- OBR Artística 2025 – Regional RJ: 2nd place
+- OBR Artística 2025 – State RJ: 6th place
+- First Tech Challenge 2026 – Regional: 7th place </h3>
 
 
