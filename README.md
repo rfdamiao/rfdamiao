@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src=""  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 <p align="left">
 I'm Rafael from Petrópolis, Rio de Janeiro<br><br>
 - 🔭 I’m a systems development student<br>
-- 📚 I'm currently learning programming logic<br>
+- 📚 I'm currently learning database<br>
 - ⚡ In my free time, I play video games
 </p>
 
