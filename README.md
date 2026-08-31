@@ -1,127 +1,154 @@
 <div align="center">
 
-# ⚜️ RFDAMIAO
+# rfdamiao
 
 ### Front-End Developer
 
 *Fear the old blood.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/rfdamiao)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rfdamiao&style=for-the-badge&color=C9A84C&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=c9a84c)](https://github.com/rfdamiao)
 
 </div>
 
 ---
 
-## 🩸 About Me
+## About Me
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
 I'm a **Front-End Developer** currently studying **Systems Development at SENAI**.
 
-My main focus is **web development**, especially building interfaces with **HTML, CSS and JavaScript**.
+My main focus is **Front-End Development**, working with:
 
-I'm also expanding my knowledge in **databases and programming**, currently studying **SQL, Python and Java**.
+- HTML
+- CSS
+- JavaScript
 
-At the moment, I'm focusing on **Database Development**, learning how to create, structure and query relational databases using **SQL** and **DBeaver**.
+I'm also studying **Databases and SQL**, while developing my knowledge in:
 
-I enjoy learning through practice, building projects and constantly improving my development skills.
+- Python
+- Java
+- SQL
+- Relational Databases
+
+I use **VS Code, GitHub and DBeaver** in my studies and projects.
+
+Currently, I'm focused on improving my programming skills, building projects and learning more about **Web Development and Databases**.
 
 ---
 
-## ⚔️ Current Focus
+## Technologies
 
-```text
-Front-End Development  ███████████████████░  90%
-HTML & CSS              ███████████████████░  90%
-JavaScript              ███████████████░░░░░  75%
-SQL & Databases         █████████████░░░░░░░  65%
-Python                  ███████████░░░░░░░░░  55%
-Java                    █████████░░░░░░░░░░░  45%
+### Front-End
 
-🕯️ Education
-SENAI — Systems Development
-Currently studying:
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=c9a84c)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=c9a84c)
 
-Software Development
-Programming Logic
-Web Development
-Databases
-SQL
-Software Engineering
-Programming Fundamentals
-Status: 🔄 Currently studying
+### Programming
 
-🩸 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=c9a84c)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=c9a84c)
+
+### Database
+
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
+![DBeaver](https://img.shields.io/badge/DBeaver-0d0d0d?style=for-the-badge&logo=dbeaver&logoColor=c9a84c)
+
+### Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=c9a84c)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=c9a84c)
+
+---
+
+## Current Focus
+
+Front-End Development  
+HTML / CSS / JavaScript
+
+Database Development  
+SQL / Relational Databases / DBeaver
+
+Programming  
+Python / Java
+
+---
+
+## Education
+
+### SENAI — Systems Development
+
+Currently studying **Systems Development at SENAI**.
+
+I'm developing knowledge in:
+
+- Programming Logic
+- Web Development
+- Front-End Development
+- Databases
+- SQL
+- Programming
+- Software Development
+
+**Status:** Currently studying
+
+---
+
+## Learning
+
+| Area | Technologies |
+| :--- | :--- |
+| Front-End | HTML, CSS, JavaScript |
+| Database | SQL, DBeaver |
+| Programming | Python, Java |
+| Tools | VS Code, Git, GitHub |
+
+---
+
+## Projects
+
+I'm currently building projects to practice my knowledge in **Front-End Development, Programming and Databases**.
+
+You can check my repositories below.
+
 <div align="center">
-Development
 
-
-
-
-
-
-Tools
-
-
-
+[![My Repositories](https://img.shields.io/badge/MY_REPOSITORIES-0d0d0d?style=for-the-badge&logo=github&logoColor=c9a84c)](https://github.com/rfdamiao?tab=repositories)
 
 </div>
-🗡️ What I'm Learning
-Front-End
-HTML5
-CSS3
-JavaScript
-Responsive Web Design
-User Interfaces
-Databases
-SQL
-Relational Databases
-Tables & Relationships
-CRUD Operations
-Data Modeling
-Database Queries
-DBeaver
-Programming
-Python
-Java
-Programming Logic
-Algorithms
-📂 Projects
-I'm currently building projects while studying Systems Development and expanding my knowledge in Front-End Development and Databases.
 
-You can explore all my repositories here:
+---
+
+## Hunter's Profile
+
+**Class:** Front-End Developer  
+**Origin:** Brazil 🇧🇷  
+**School:** SENAI  
+**Focus:** Web Development  
+**Currently Studying:** Databases & SQL  
+**Languages:** Portuguese / English  
+**Weapon:** VS Code  
+**Covenant:** GitHub  
+**Status:** Still Hunting...
+
+---
+
+## Contact
 
 <div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=c9a84c)](https://github.com/rfdamiao)
+
 </div>
-📊 GitHub Stats
+
+---
+
 <div align="center">
-<br/>
+
+*† Seek knowledge to transcend the Hunt †*
+
+**The Hunt Continues.**
+
 </div>
-🩸 GitHub Activity
-<div align="center">
-</div>
-⚜️ Hunter's Profile
-╔══════════════════════════════════════╗
-║                                      ║
-║   CLASS     →  Front-End Developer   ║
-║   ORIGIN    →  Brazil 🇧🇷             ║
-║   SCHOOL    →  SENAI                 ║
-║   FOCUS     →  Web Development       ║
-║   STUDYING  →  Databases & SQL       ║
-║   WEAPON    →  VS Code               ║
-║   COVENANT  →  GitHub                ║
-║                                      ║
-║   STATUS    →  Still Hunting...      ║
-║                                      ║
-╚══════════════════════════════════════╝
-
-<div align="center">
-🕯️ The Hunt Continues
-Currently learning. Currently building. Currently hunting for knowledge.
-
-<br>
-† Seek knowledge to transcend the Hunt †
-
-</div> ```
