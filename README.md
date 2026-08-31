@@ -1,6 +1,8 @@
 <div align="center">
 
-# rfdamiao
+<img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="Bloodborne Banner"/>
+
+# RFDAMIAO
 
 ### Front-End Developer
 
