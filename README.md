@@ -32,45 +32,8 @@ My tools of choice:
 
 **VS Code · Git · GitHub · DBeaver**
 
----
 
-<div align="center">
 
-<div align="center">
+> *The night is long. The Hunt has only begun.*
 
-### 🩸 𝕿𝖍𝖊 𝕳𝖚𝖓𝖙𝖊𝖗
 
-<table>
-<tr>
-<td align="center">
-
-⚜ **H U N T E R ' S   P R O F I L E**
-<br><br>
-**CLASS** &nbsp;&nbsp; ──→ &nbsp;&nbsp; Front-End Developer  
-**ORIGIN** &nbsp; ──→ &nbsp;&nbsp; Brazil 🇧🇷  
-**SCHOOL** &nbsp; ──→ &nbsp;&nbsp; SENAI  
-
-<br>
-
-**PATH** &nbsp;&nbsp;&nbsp;&nbsp; ──→ &nbsp;&nbsp; Web Development  
-**HUNT** &nbsp;&nbsp;&nbsp;&nbsp; ──→ &nbsp;&nbsp; Databases & SQL  
-
-<br>
-
-**ARSENAL** &nbsp;&nbsp; ──→ &nbsp;&nbsp; HTML · CSS · JavaScript  
-**KNOWLEDGE** ──→ &nbsp;&nbsp; Python · Java · SQL  
-**TOOLS** &nbsp;&nbsp;&nbsp;&nbsp; ──→ &nbsp;&nbsp; VS Code · Git · DBeaver  
-
-<br>
-
-**STATUS** &nbsp;&nbsp;&nbsp; ──→ &nbsp;&nbsp; *Hunting for knowledge...*
-
-</td>
-</tr>
-</table>
-
-<br>
-
-*The night is long. The Hunt has only begun.*
-
-</div>
