@@ -38,13 +38,13 @@ My tools of choice:
 
 ### 🩸 𝕿𝖍𝖊 𝕳𝖚𝖓𝖙𝖊𝖗
 
-
+```text
 ╭────────────────────────────────────────────╮
 │                                            │
-│        ⚜  H U N T E R ' S   P R O F I L E  │
+│       ⚜  H U N T E R ' S   P R O F I L E  │
 │                                            │
 │   CLASS       ──→  Front-End Developer     │
-│   ORIGIN      ──→  Brazil 🇧🇷               │
+│   ORIGIN      ──→  Brazil 🇧🇷              │
 │   SCHOOL      ──→  SENAI                   │
 │                                            │
 │   PATH        ──→  Web Development         │
