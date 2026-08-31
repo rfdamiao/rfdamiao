@@ -45,9 +45,7 @@ My tools of choice:
 <td align="center">
 
 ⚜ **H U N T E R ' S   P R O F I L E**
-
 <br><br>
-
 **CLASS** &nbsp;&nbsp; ──→ &nbsp;&nbsp; Front-End Developer  
 **ORIGIN** &nbsp; ──→ &nbsp;&nbsp; Brazil 🇧🇷  
 **SCHOOL** &nbsp; ──→ &nbsp;&nbsp; SENAI  
