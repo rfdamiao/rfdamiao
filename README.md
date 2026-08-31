@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="Bloodborne Banner"/>
+<img src="https://i.pinimg.com/1200x/b5/9e/97/b59e97acca8a1ee4361b5432a89b1686.jpg" width="100%" alt="Bloodborne Banner"/>
 
 # RFDAMIAO
 
