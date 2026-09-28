@@ -155,9 +155,10 @@ $ robotics
 FTC 2025 DECODE
 OBR 2025
 
-$ achievement
+$ achievements
 
 Vice-Champion — OBR Regional RJ 2025
+School Champion — Hack Ética 2026
 
 $ motivation
 
@@ -234,10 +235,11 @@ while(alive){
 
 # 🌟 Featured Projects
 
-| 🚀 Project      | 💡 Description                                          | ⚙️ Stack |
-| --------------- | ------------------------------------------------------- | -------- |
-| FTC 2025 DECODE | Robotics competition project                            | Robotics |
-| OBR 2025        | Brazilian Robotics Olympiad — Regional RJ Vice-Champion | Robotics |
+| 🚀 Project      | 💡 Description                                          | ⚙️ Stack   |
+| --------------- | ------------------------------------------------------- | ---------- |
+| FTC 2025 DECODE | Robotics competition project                            | Robotics   |
+| OBR 2025        | Brazilian Robotics Olympiad — Regional RJ Vice-Champion | Robotics   |
+| Hack Ética 2026 | School Champion                                         | Technology |
 
 ---
 
