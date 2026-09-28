@@ -1,39 +1,250 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/b5/9e/97/b59e97acca8a1ee4361b5432a89b1686.jpg" width="100%" alt="Bloodborne Banner"/>
+# 🤖 S Y S T E M ・ O N L I N E
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
 
-# 𝖗𝖋𝖉𝖆𝖒𝖎𝖆𝖔
-
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Front-End+Developer;Fear+the+old+blood.;Seek+knowledge+to+transcend+the+Hunt." alt="Typing SVG"/>
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/rfdamiao)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:8B5CF6,100:00E5FF&text=Full%20Stack%20Developer&fontAlign=50&fontAlignY=42&fontSize=50&fontColor=ffffff"/>
 
 </div>
 
 ---
 
-## ☾ About Me
+# 💻 AI TERMINAL
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
+```bash
+╔════════════════════════════════════════════════════╗
+║             DEVELOPER CORE v3.0                   ║
+╚════════════════════════════════════════════════════╝
 
-I am a **Front-End Developer** walking the path of **Systems Development at SENAI**.
+Loading modules...
 
-My current hunt lies within **Web Development**, while I descend deeper into the forbidden knowledge of **Databases and SQL**.
+██████████████████████████████ 100%
 
-I'm currently sharpening my skills in:
+✔ Developer Loaded
+✔ Full Stack Module Enabled
+✔ Robotics Module Enabled
+✔ Projects Loaded
+✔ GitHub Connected
+✔ Deploy Service Running
 
-**HTML · CSS · JavaScript · SQL · Python · Java**
+STATUS: ONLINE 🚀
+```
 
-My tools of choice:
+---
 
-**VS Code · Git · GitHub · DBeaver**
+# 👨‍💻 About Me
 
+```javascript
+const Developer = {
 
+    name: "Rafael Damião",
 
-> *The night is long. The Hunt has only begun.*
+    role: "Full Stack Developer",
 
+    location: "Petrópolis, Rio de Janeiro, Brazil 🇧🇷",
 
+    focus: [
+        "Frontend",
+        "Backend",
+        "Web Development",
+        "Robotics"
+    ],
+
+    currentlyLearning: [
+        "Java",
+        "PostgreSQL"
+    ],
+
+    hobbies: [
+        "Coding",
+        "Robotics",
+        "Technology",
+        "Gaming"
+    ],
+
+    lifeGoal:
+        "Transform ideas into functional and creative digital experiences."
+}
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+### Back-End
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgresql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel"/>
+
+</div>
+
+---
+
+# 🚀 Current Mission
+
+```bash
+> Initializing objectives...
+
+Frontend Development
+██████████████████████ 100%
+
+Backend Development
+█████████████████░░░░ 82%
+
+Python
+██████████████████░░ 90%
+
+Java
+███████████░░░░░░░░░ 55%
+
+PostgreSQL
+██████████░░░░░░░░░░ 50%
+
+Robotics
+███████████████████░ 95%
+
+Status:
+Never Stop Learning 🚀
+```
+
+---
+
+# 🛰 Developer Console
+
+```console
+$ whoami
+
+Rafael Damião
+
+$ profession
+
+Full Stack Developer
+
+$ location
+
+Petrópolis, Rio de Janeiro, Brazil
+
+$ editor
+
+Visual Studio Code
+
+$ favorite_language
+
+Python
+
+$ current_project
+
+SENAI
+
+$ robotics
+
+FTC 2025 DECODE
+OBR 2025
+
+$ achievement
+
+Vice-Champion — OBR Regional RJ 2025
+
+$ motivation
+
+while(alive){
+    learn();
+    build();
+    improve();
+}
+```
+
+---
+
+# 🛠 Skills
+
+| Category        | Technologies            |
+| --------------- | ----------------------- |
+| Frontend        | HTML • CSS • JavaScript |
+| Backend         | Node.js • Python • Java |
+| Database        | PostgreSQL              |
+| Version Control | Git • GitHub            |
+| Design          | Figma                   |
+| Deployment      | Vercel                  |
+| Robotics        | FTC • OBR               |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rfdamiao&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfdamiao&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rfdamiao&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rfdamiao&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rfdamiao&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rfdamiao/rfdamiao/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+| 🚀 Project      | 💡 Description                                          | ⚙️ Stack |
+| --------------- | ------------------------------------------------------- | -------- |
+| FTC 2025 DECODE | Robotics competition project                            | Robotics |
+| OBR 2025        | Brazilian Robotics Olympiad — Regional RJ Vice-Champion | Robotics |
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • CREATE • REPEAT`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:8B5CF6,100:00E5FF"/>
+
+</div>
