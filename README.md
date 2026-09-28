@@ -103,7 +103,7 @@ Frontend Development
 ██████████████████████ 100%
 
 Backend Development
-█████████████████░░░░ 82%
+███████████████████░ 82%
 
 Python
 ██████████████████░░ 90%
@@ -203,35 +203,6 @@ while(alive){
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rfdamiao&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rfdamiao&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rfdamiao/rfdamiao/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 🌟 Featured Projects
 
